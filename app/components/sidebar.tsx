@@ -98,7 +98,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGPT 中文镜像网站</div>
         <div className={styles["sidebar-sub-title"]}>
-          购买授权码和ChatGPT账号请联系站长微信：yuankusc
+          购买ChatGPT账号请访问：<a href="https://fk.yuankuw.com/">https://fk.yuankuw.com</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
