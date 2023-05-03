@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码。购买授权码和ChatGPT账号请联系站长微信：yuankusc",
+      "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码。或者输入自己的ChatGPT账号api key,购买ChatGPT账号请请访问：fk.yuankuw.com",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
